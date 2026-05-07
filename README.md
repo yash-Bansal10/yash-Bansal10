@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there, I'm Yash Bansal 👋<br><br>Exploring the world of AI, one project at a time 🧠<br><br>I build smart traffic systems & interactive websites 🚗<br><br>Also learning to stay afloat (literally) 🏊‍♂️<br><br>Coder from Ghaziabad, India 📍<br><br>[My Portfolio](https://iamyashbansal.vercel.app) • [My LinkedIn](https://www.linkedin.com/in/iamyashbansal/)
+Hey there, I'm Yash Bansal 👋<br><br>Exploring the world of AI, one project at a time 🧠<br><br>I build scalable distributed systems & interactive web applications ⚙️ <br><br>Also learning to stay afloat (literally) 🏊‍♂️<br><br>Coder from Ghaziabad, India 📍<br><br>[My Portfolio](https://iamyashbansal.vercel.app) • [My LinkedIn](https://www.linkedin.com/in/iamyashbansal/)
 
 
 ## 🌐 Socials:
