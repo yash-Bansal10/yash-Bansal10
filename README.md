@@ -1,27 +1,235 @@
-# 💫 About Me:
-Hey there, I'm Yash Bansal 👋<br><br>Exploring the world of AI, one project at a time 🧠<br><br>I build scalable distributed systems & interactive web applications ⚙️ <br><br>Also learning to stay afloat (literally) 🏊‍♂️<br><br>Coder from Ghaziabad, India 📍<br><br>[My Portfolio](https://iamyashbansal.vercel.app) • [My LinkedIn](https://www.linkedin.com/in/iamyashbansal/)
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,50:7C3AED,100:A855F7&text=Yash%20Bansal&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20ML%20Engineer&descAlignY=58"/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yashbansal872) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamyashbansal) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Yash-2202) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@YashB_Official) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:9.c.yashbansal@gmail.com) 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=1000&lines=B.Tech+CSE+(Artificial+Intelligence);Full+Stack+Engineer;Machine+Learning+Engineer;Open+Source+Contributor;Building+AI+Powered+Systems"/>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yash-Bansal10&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=yash-Bansal10&theme=one_dark_pro&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yash-Bansal10&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=yash-Bansal10&theme=one_dark_pro&no-frame=false&no-bg=true&margin-w=4)
+![KIET](https://img.shields.io/badge/KIET-CSE%20(AI)-6D28D9?style=for-the-badge)
+![NDA](https://img.shields.io/badge/NDA-Written%20Qualified-4F46E5?style=for-the-badge)
+![AIR](https://img.shields.io/badge/AIR-714-7C3AED?style=for-the-badge)
+![Location](https://img.shields.io/badge/India-Uttar%20Pradesh-8B5CF6?style=for-the-badge)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<a href="https://iamyashbansal.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=yash-Bansal10&limit=5&theme=one_dark_pro&combine_all_yearly_contributions=true)
+<a href="https://www.linkedin.com/in/iamyashbansal/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:iamyashbansal.dev@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-A855F7?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/yash-Bansal10">
+<img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/>
+
+![](https://komarev.com/ghpvc/?username=yash-Bansal10&style=for-the-badge&color=7C3AED)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=yash-Bansal10&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# About Me
+
+Software Engineering student specializing in Artificial Intelligence with a strong focus on building production-oriented systems, scalable applications, and AI-powered products.
+
+## Open To
+
+- Software Engineering Internships
+- AI / ML Engineering Roles
+- Open Source Contributions
+- Startup Opportunities
+- International Opportunities
+
+---
+
+# Tech Stack
+
+## Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,typescript,html,css"/>
+</p>
+
+## AI & ML
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+</p>
+
+## Full Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,bootstrap,tailwind"/>
+</p>
+
+## Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase"/>
+</p>
+
+## Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode"/>
+</p>
+
+---
+
+<!--
+# AI / ML Expertise
+
+Add proficiency levels later.
+-->
+
+# Featured Repositories
+
+<div align="center">
+
+<a href="https://github.com/yash-Bansal10/Intelli-Flow-AI">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=yash-Bansal10&repo=Intelli-Flow-AI&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/yash-Bansal10/Autonomous-Research-Agent">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=yash-Bansal10&repo=Autonomous-Research-Agent&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/yash-Bansal10/AI-Employee-Performance-Analytics">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=yash-Bansal10&repo=AI-Employee-Performance-Analytics&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/yash-Bansal10/Personal-Portfolio">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=yash-Bansal10&repo=Personal-Portfolio&theme=tokyonight"/>
+</a>
+
+</div>
+
+---
+
+# Featured Projects
+
+## Intelli-Flow-AI
+Multi-agent AI platform designed to automate data analysis, statistical reasoning, and business insight generation.
+
+## Autonomous Research Agent
+Agentic AI system capable of planning, researching, synthesizing information, and generating structured outputs.
+
+## AI Employee Performance Analytics
+Machine learning platform focused on workforce analytics, predictive insights, and performance evaluation.
+
+## Personal Portfolio
+Professional portfolio showcasing projects, skills, and engineering journey.
+
+---
+
+# Achievements
+
+| Recognition | Details |
+|-------------|---------|
+| NDA Examination | Cleared NDA Written Examination |
+| AIR 714 | National Rank in NDA Examination |
+| Swimming | Second Position |
+| Calligraphy | Third Position |
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yash-Bansal10&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-Bansal10&layout=compact&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yash-Bansal10&theme=tokyonight"/>
+
+</div>
+
+---
+
+# GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=yash-Bansal10&theme=algolia&no-frame=true&margin-w=10&row=2&column=4"/>
+
+</div>
+
+---
+
+# Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yash-Bansal10&theme=tokyo-night"/>
+
+</div>
+
+---
+
+<!--
+# Coding Profiles
+
+LeetCode:
+CodeChef:
+GeeksForGeeks:
+HackerRank:
+Codeforces:
+-->
+
+# Current Focus
+
+```yaml
+Learning:
+  - System Design
+  - Agentic AI
+  - Advanced Machine Learning
+
+Building:
+  - AI Products
+  - Intelligent Automation Systems
+  - Full Stack Applications
+
+Exploring:
+  - Multi-Agent Architectures
+  - LLM Workflows
+  - AI Engineering
+
+Open_To:
+  - Software Engineering Internships
+  - Machine Learning Opportunities
+  - Open Source Collaborations
+  - Startup Opportunities
+  - International Opportunities
+```
+
+---
+
+# Connect
+
+<div align="center">
+
+<a href="mailto:iamyashbansal.dev@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://www.linkedin.com/in/iamyashbansal/">
+<img src="https://img.shields.io/badge/LinkedIn-Network-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/yash-Bansal10">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://iamyashbansal.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel"/>
+</a>
+
+</div>
