@@ -7,7 +7,7 @@
 <br/>
 
 ![KIET](https://img.shields.io/badge/KIET-CSE%20(AI)-6D28D9?style=for-the-badge)
-![NDA](https://img.shields.io/badge/NDA-Written%20Qualified-4F46E5?style=for-the-badge)
+![NDA](https://img.shields.io/badge/NDA-Recommended-4F46E5?style=for-the-badge)
 ![AIR](https://img.shields.io/badge/AIR-714-7C3AED?style=for-the-badge)
 ![Location](https://img.shields.io/badge/India-Uttar%20Pradesh-8B5CF6?style=for-the-badge)
 
