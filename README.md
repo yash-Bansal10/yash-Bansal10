@@ -118,29 +118,14 @@ This section will be enabled later.
 | LLM Engineering | |
 
 -->
-<a href="https://github.com/yash-Bansal10/Intelli-Flow-AI">
-<img src="./assets/repo-intelliflow.svg" width="48%" alt="Intelli-Flow AI"/>
-</a>
-
-<a href="https://github.com/yash-Bansal10/Autonomous-Research-Agent">
-<img src="./assets/repo-autonomous-agent.svg" width="48%" alt="Autonomous Research Agent"/>
-</a>
-
-<br><br>
-
-<a href="https://github.com/yash-Bansal10/AI-Employee-Performance-Analytics">
-<img src="./assets/repo-performance.svg" width="48%" alt="AI Employee Performance Analytics"/>
-</a>
-
-<a href="https://github.com/yash-Bansal10/Personal-Portfolio">
-<img src="./assets/repo-portfolio.svg" width="48%" alt="Personal Portfolio"/>
-</a>
-
-</div>
 
 ---
 
 # Featured Projects
+<a href="https://github.com/yash-Bansal10/Intelli-Flow-AI">
+<img src="./assets/repo-intelliflow.svg" width="48%" alt="Intelli-Flow AI"/>
+</a>
+
 
 ## 🚦 Intelli-Flow AI
 
@@ -161,6 +146,12 @@ An intelligent traffic management platform that combines scalable backend servic
 ---
 
 ## 🤖 Autonomous Research Agent
+<a href="https://github.com/yash-Bansal10/Autonomous-Research-Agent">
+<img src="./assets/repo-autonomous-agent.svg" width="48%" alt="Autonomous Research Agent"/>
+</a>
+
+<br>
+
 
 A multi-agent research assistant capable of autonomously planning, collecting, synthesizing, and presenting information using modern LLM workflows.
 
@@ -180,6 +171,10 @@ A multi-agent research assistant capable of autonomously planning, collecting, s
 
 ## 📊 AI Employee Performance Analytics
 
+<a href="https://github.com/yash-Bansal10/AI-Employee-Performance-Analytics">
+<img src="./assets/repo-performance.svg" width="48%" alt="AI Employee Performance Analytics"/>
+</a>
+
 A machine learning application focused on workforce analytics and predictive performance evaluation.
 
 ### Highlights
@@ -197,6 +192,11 @@ A machine learning application focused on workforce analytics and predictive per
 ---
 
 ## 🌐 Personal Portfolio
+<a href="https://github.com/yash-Bansal10/Personal-Portfolio">
+<img src="./assets/repo-portfolio.svg" width="48%" alt="Personal Portfolio"/>
+</a>
+
+</div>
 
 Modern responsive portfolio built to showcase projects, technical skills, and engineering experience.
 
