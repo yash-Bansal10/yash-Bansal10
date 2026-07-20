@@ -8,7 +8,7 @@
 
 # Hi, I'm Yash Bansal 👋
 
-### Software Engineer • Backend Engineer
+### Software Engineer and Backend Engineer
 
 **Building Scalable Systems • AI-Powered Applications • Distributed Software**
 
