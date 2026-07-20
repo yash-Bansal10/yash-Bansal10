@@ -1,35 +1,38 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,50:7C3AED,100:A855F7&text=Yash%20Bansal&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20ML%20Engineer&descAlignY=58"/>
+<img src="./assets/banner.svg" alt="Yash Bansal Banner" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=1000&lines=B.Tech+CSE+(Artificial+Intelligence);Full+Stack+Engineer;Machine+Learning+Engineer;Open+Source+Contributor;Building+AI+Powered+Systems"/>
+<img src="./assets/typing.svg" alt="Typing Animation" width="100%"/>
 
-<br/>
+<br>
 
-![KIET](https://img.shields.io/badge/KIET-CSE%20(AI)-6D28D9?style=for-the-badge)
-![NDA](https://img.shields.io/badge/NDA-Recommended-4F46E5?style=for-the-badge)
-![AIR](https://img.shields.io/badge/AIR-714-7C3AED?style=for-the-badge)
-![Location](https://img.shields.io/badge/India-Uttar%20Pradesh-8B5CF6?style=for-the-badge)
+# Hi, I'm Yash Bansal 👋
 
-<a href="https://iamyashbansal.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+### Software Engineer • Backend Engineer
+
+**Building Scalable Systems • AI-Powered Applications • Distributed Software**
+
+<br>
+
+<a href="https://iamyashbansal.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/iamyashbansal/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:iamyashbansal.dev@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-A855F7?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/yash-Bansal10">
-<img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br/>
+<br><br>
 
-![](https://komarev.com/ghpvc/?username=yash-Bansal10&style=for-the-badge&color=7C3AED)
+![Profile Views](https://komarev.com/ghpvc/?username=yash-Bansal10&style=for-the-badge&color=7C3AED)
 
 </div>
 
@@ -37,15 +40,28 @@
 
 # About Me
 
-Software Engineering student specializing in Artificial Intelligence with a strong focus on building production-oriented systems, scalable applications, and AI-powered products.
+I'm a **Software Engineering student** specializing in **Artificial Intelligence**, with a primary interest in designing scalable backend systems, building production-ready applications, and applying AI where it creates measurable impact.
 
-## Open To
+Rather than treating AI as the product itself, I enjoy engineering robust software systems that leverage AI to solve real-world problems.
 
-- Software Engineering Internships
-- AI / ML Engineering Roles
-- Open Source Contributions
-- Startup Opportunities
-- International Opportunities
+## Areas of Interest
+
+- Backend Engineering
+- Software Architecture
+- Distributed Systems
+- Machine Learning
+- AI Applications
+- Developer Tools
+- Open Source
+
+---
+
+# Currently
+
+- Building production-ready software projects
+- Learning distributed systems and system design
+- Exploring agentic AI architectures
+- Strengthening backend engineering fundamentals
 
 ---
 
@@ -54,59 +70,70 @@ Software Engineering student specializing in Artificial Intelligence with a stro
 ## Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,typescript,html,css"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,typescript,html,css" />
 </p>
 
-## AI & ML
+## Backend Development
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
 </p>
 
-## Full Stack
+## Frontend Development
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,bootstrap,tailwind"/>
+<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind" />
 </p>
 
 ## Databases
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
 </p>
 
-## Tools
+## AI & Machine Learning
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 </p>
 
----
+## Tools & Platforms
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
+</p>
 
 <!--
 # AI / ML Expertise
 
-Add proficiency levels later.
+This section will be enabled later.
+
+| Domain | Level |
+|---------|-------|
+| Machine Learning | |
+| Deep Learning | |
+| NLP | |
+| Computer Vision | |
+| MLOps | |
+| LLM Engineering | |
+
 -->
-
-# Featured Repositories
-
-<div align="center">
-
 <a href="https://github.com/yash-Bansal10/Intelli-Flow-AI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=yash-Bansal10&repo=Intelli-Flow-AI&theme=tokyonight"/>
+<img src="./assets/repo-intelliflow.svg" width="48%" alt="Intelli-Flow AI"/>
 </a>
 
 <a href="https://github.com/yash-Bansal10/Autonomous-Research-Agent">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=yash-Bansal10&repo=Autonomous-Research-Agent&theme=tokyonight"/>
+<img src="./assets/repo-autonomous-agent.svg" width="48%" alt="Autonomous Research Agent"/>
 </a>
 
+<br><br>
+
 <a href="https://github.com/yash-Bansal10/AI-Employee-Performance-Analytics">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=yash-Bansal10&repo=AI-Employee-Performance-Analytics&theme=tokyonight"/>
+<img src="./assets/repo-performance.svg" width="48%" alt="AI Employee Performance Analytics"/>
 </a>
 
 <a href="https://github.com/yash-Bansal10/Personal-Portfolio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=yash-Bansal10&repo=Personal-Portfolio&theme=tokyonight"/>
+<img src="./assets/repo-portfolio.svg" width="48%" alt="Personal Portfolio"/>
 </a>
 
 </div>
@@ -115,28 +142,90 @@ Add proficiency levels later.
 
 # Featured Projects
 
-## Intelli-Flow-AI
-Multi-agent AI platform designed to automate data analysis, statistical reasoning, and business insight generation.
+## 🚦 Intelli-Flow AI
 
-## Autonomous Research Agent
-Agentic AI system capable of planning, researching, synthesizing information, and generating structured outputs.
+An intelligent traffic management platform that combines scalable backend services, computer vision, and machine learning to optimize traffic flow in real time.
 
-## AI Employee Performance Analytics
-Machine learning platform focused on workforce analytics, predictive insights, and performance evaluation.
+### Highlights
 
-## Personal Portfolio
-Professional portfolio showcasing projects, skills, and engineering journey.
+- Modular backend architecture
+- Computer Vision pipeline
+- Machine Learning integration
+- Real-time processing
+- AI-assisted traffic optimization
+
+**Tech Stack**
+
+`Python` • `Flask` • `YOLO` • `OpenCV` • `SUMO`
 
 ---
 
-# Achievements
+## 🤖 Autonomous Research Agent
 
-| Recognition | Details |
-|-------------|---------|
-| NDA Examination | Cleared NDA Written Examination |
-| AIR 714 | National Rank in NDA Examination |
-| Swimming | Second Position |
-| Calligraphy | Third Position |
+A multi-agent research assistant capable of autonomously planning, collecting, synthesizing, and presenting information using modern LLM workflows.
+
+### Highlights
+
+- Autonomous planning
+- Agent orchestration
+- Research automation
+- Structured report generation
+- Modular workflow design
+
+**Tech Stack**
+
+`Python` • `LangChain` • `LLMs`
+
+---
+
+## 📊 AI Employee Performance Analytics
+
+A machine learning application focused on workforce analytics and predictive performance evaluation.
+
+### Highlights
+
+- Data preprocessing
+- Predictive modeling
+- Performance analytics
+- Visualization dashboard
+- Decision support
+
+**Tech Stack**
+
+`Python`
+
+---
+
+## 🌐 Personal Portfolio
+
+Modern responsive portfolio built to showcase projects, technical skills, and engineering experience.
+
+### Highlights
+
+- Responsive UI
+- Modern design
+- Project showcase
+- Performance optimized
+
+**Tech Stack**
+
+`React` • `JavaScript`
+
+---
+
+# Engineering Philosophy
+
+```text
+Build software that is:
+
+• Scalable
+• Reliable
+• Maintainable
+• Secure
+• User-focused
+
+Use AI where it improves the product—not where it merely adds complexity.
+```
 
 ---
 
@@ -144,21 +233,13 @@ Professional portfolio showcasing projects, skills, and engineering journey.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yash-Bansal10&show_icons=true&theme=tokyonight"/>
+<img src="./assets/github-stats.svg" width="49%" alt="GitHub Stats"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-Bansal10&layout=compact&theme=tokyonight"/>
+<img src="./assets/top-languages.svg" width="49%" alt="Top Languages"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yash-Bansal10&theme=tokyonight"/>
+<br><br>
 
-</div>
-
----
-
-# GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=yash-Bansal10&theme=algolia&no-frame=true&margin-w=10&row=2&column=4"/>
+<img src="./assets/streak.svg" width="70%" alt="GitHub Streak"/>
 
 </div>
 
@@ -168,68 +249,13 @@ Professional portfolio showcasing projects, skills, and engineering journey.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yash-Bansal10&theme=tokyo-night"/>
+<img src="./assets/contribution-graph.svg" width="100%" alt="Contribution Graph"/>
 
 </div>
 
 ---
-
-<!--
-# Coding Profiles
-
-LeetCode:
-CodeChef:
-GeeksForGeeks:
-HackerRank:
-Codeforces:
--->
-
-# Current Focus
-
-```yaml
-Learning:
-  - System Design
-  - Agentic AI
-  - Advanced Machine Learning
-
-Building:
-  - AI Products
-  - Intelligent Automation Systems
-  - Full Stack Applications
-
-Exploring:
-  - Multi-Agent Architectures
-  - LLM Workflows
-  - AI Engineering
-
-Open_To:
-  - Software Engineering Internships
-  - Machine Learning Opportunities
-  - Open Source Collaborations
-  - Startup Opportunities
-  - International Opportunities
-```
-
 ---
 
-# Connect
+# Featured Repositories
 
 <div align="center">
-
-<a href="mailto:iamyashbansal.dev@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://www.linkedin.com/in/iamyashbansal/">
-<img src="https://img.shields.io/badge/LinkedIn-Network-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/yash-Bansal10">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://iamyashbansal.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel"/>
-</a>
-
-</div>
